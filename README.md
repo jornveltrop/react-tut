@@ -11,8 +11,7 @@
   <br>
     <br>
   <a href="Link naar zeroheight?"><img src="./docs/explore_react_docs.svg" alt="Stamp logo" width="auto" height="38"></a>
-  <a class="stamp-button stamp-button--variant-primary">Click dgbrnrtnrtnrtnrtnrt<div class="stamp-icon stamp-icon--size-s">hi</div>
-  </a>
+  <a href="Link naar zeroheight?" class="stamp-button stamp-button--variant-primary">Click dgbrnrtnrtnrtnrtnrt</a>
   <br>
   <br>
   <a href="link naar Slack?">Report bug (GitHub)</a>
